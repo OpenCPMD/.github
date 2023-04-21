@@ -1,5 +1,10 @@
-What is CPMD ?
-==============
+What is OpenCPMD?
+=================
+
+OpenCPMD is a community of developers and users of the CPMD program that formed after it was made freely available under the MIT license in 2022.
+
+What is CPMD?
+-------------
 
 The CPMD code is a parallelized **plane wave / pseudopotential** implementation of Density Functional Theory, particularly designed for ab-initio molecular dynamics.
 
@@ -10,7 +15,6 @@ The development of CPMD started in 1990 by a team of researchers at IBM Research
 In 2022, IBM made the CPMD code freely available on GitHub under the MIT License.
 
 
-
 ## Copyright Notice
 
 The CPMD program is © 1990-2023 by IBM Corp. and © 1994-2001 by Max Planck Institute, Stuttgart. 
@@ -19,9 +23,9 @@ The CPMD program is © 1990-2023 by IBM Corp. and © 1994-2001 by Max Planck Ins
 
 ## Public Repositories
 
-- [CPMD](https://github.com/CPMD-code/CPMD): main CPMD code (MIT License)
-- [Addons](https://github.com/CPMD-code/Addons): Additional packages part of the CPMD distribution (MIT License)
-- [Tests](https://github.com/CPMD-code/Tests): collection of input test files with production defaults (MIT License)
-- [Regtests](https://github.com/CPMD-code/Regtests): regression tests for the quality control/assurance of CPMD (MIT License). Requires the download of the CPQA package.
-- [cpqa](https://github.com/CPMD-code/cpqa): quality assurance code originally developed for CP2K and customized for CPMD (GPL v.3)
+- [CPMD](https://github.com/OpenCPMD/CPMD): main CPMD code (MIT License)
+- [Addons](https://github.com/OpenCPMD/Addons): Additional packages part of the CPMD distribution (MIT License)
+- [Tests](https://github.com/OpenCPMD/Tests): collection of input test files with production defaults (MIT License)
+- [Regtests](https://github.com/OpenCPMD/Regtests): regression tests for the quality control/assurance of CPMD (MIT License). Requires the download of the CPQA package.
+- [cpqa](https://github.com/OpenCPMD/cpqa): quality assurance code originally developed for CP2K and customized for CPMD (GPL v.3)
 

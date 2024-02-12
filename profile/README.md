@@ -6,7 +6,7 @@ The CPMD code is a parallelized **plane wave / pseudopotential** implementation 
 
 ### History
 The development of CPMD started in 1990 by a team of researchers at IBM Research Zurich. Between 1994 and 2001, the CPMD code was jointly developed between IBM and the Max Planck Institute. In 2001, a consortium has been established in order to coordinate the development and distribution of the CPMD code. The consortium was a virtual organization that comprised all the users and developers of the CPMD code around the world.  This organization was coordinated by [Alessandro Curioni](http://researcher.watson.ibm.com/researcher/view.php?person=zurich-cur) (IBM) and  was founded by [Prof. Michele Parrinello](http://www.rgp.ethz.ch) (USI) and [Prof. Wanda Andreoni](http://c3pn.epfl.ch/page-77528-en.html) (EPFL).
-Many members of the CPMD consortium (http://www.cpmd.org/) contributed to the code in its present form, mainly: Juerg Hutter, Mauro Boero, Alessandro Curioni, Axel Kohlmeyer, Nisanth Nair, Ari Seitsonen, Wolfram Quester, Dominik Marx, Valery Weber, Teodoro Laino.
+Many members of the CPMD consortium (http://www.cpmd.org/) contributed to the code in its present form, mainly: Juerg Hutter, Mauro Boero, Alessandro Curioni, Mark Tuckerman, Ivano Tavernelli, Axel Kohlmeyer, Nisanth Nair, Ari Seitsonen, Wolfram Quester, Dominik Marx, Valery Weber, Teodoro Laino.
 
 In 2022, IBM made the CPMD code freely available on GitHub under the MIT License.
 

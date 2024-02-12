@@ -19,3 +19,4 @@ The CPMD program is © 1990-2023 by IBM Corp. and © 1994-2001 by Max Planck Ins
 - [Tests](https://github.com/OpenCPMD/Tests): collection of input test files with production defaults (MIT License)
 - [Regtests](https://github.com/OpenCPMD/Regtests): regression tests for the quality control/assurance of CPMD (MIT License). Requires the download of the CPQA package.
 - [cpqa](https://github.com/OpenCPMD/cpqa): quality assurance code originally developed for CP2K and customized for CPMD (GPL v.3)
+- [Pseudopotentials Extended Library] (https://github.com/OpenCPMD/Pseudpotentials-extended-library): Avaliable tested pseudopotentials (M. Boero)

@@ -22,3 +22,4 @@ The CPMD program is © 1990-2023 by IBM Corp. and © 1994-2001 by Max Planck Ins
 - [cpqa](https://github.com/OpenCPMD/cpqa): quality assurance code originally developed for CP2K and customized for CPMD (GPL v.3)
 - [Pseudopotentials Extended Library](https://github.com/OpenCPMD/Pseudpotentials-extended-library): Avaliable tested pseudopotentials (M. Boero)
 - [GTH pseudopotentials](https://github.com/OpenCPMD/GTH-pseudopotentials): Available GTH pseudopotentials (M. Boero)
+- [GTH pseudopotentials](https://github.com/OpenCPMD/Quick_Tutorial): A quick tutorial about input and output files of CPMD.

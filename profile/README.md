@@ -12,7 +12,7 @@ Many members of the CPMD consortium (http://www.cpmd.org/) contributed to the co
 In 2022, IBM made the CPMD code freely available on GitHub under the MIT License.
 
 ### Copyright Notice
-The CPMD program is © 1990-2023 by IBM Corp. and © 1994-2001 by Max Planck Institute, Stuttgart. 
+The CPMD program is © 1990-2022 by IBM Corp. and © 1994-2001 by Max Planck Institute, Stuttgart. 
 
 ## Public Repositories
 - [CPMD](https://github.com/OpenCPMD/CPMD): main CPMD code (MIT License)

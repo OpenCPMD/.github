@@ -1,6 +1,6 @@
 # OpenCPMD
 OpenCPMD is a community of developers and users of the CPMD program that formed after the code was made freely available under the MIT license in 2022.
-Present members (in alphabetic order): Mauro Boero, Jógvan Magnus Haugaard Olsen, Takashi Ikeda, Emiliano Ippoliti, Tobias Klöffel, Davide Mandelli, Gerald Mathias.
+Present members (in alphabetic order): Mauro Boero, Jógvan Magnus Haugaard Olsen, Takashi Ikeda, Emiliano Ippoliti, Tobias Klöffel, Davide Mandelli, Gerald Mathias, Bernd Meyer.
 
 ## What is CPMD?
 The CPMD code is a parallelized **plane wave / pseudopotential** implementation of Density Functional Theory, particularly designed for ab-initio molecular dynamics.

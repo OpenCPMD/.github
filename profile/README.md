@@ -24,4 +24,4 @@ The present OpenCPMD version, forked from the original CPMD, is freely distribut
 - [cpqa](https://github.com/OpenCPMD/cpqa): quality assurance code originally developed for CP2K and customized for CPMD (GPL v.3)
 - [Pseudopotentials Extended Library](https://github.com/OpenCPMD/Pseudpotentials-extended-library): Avaliable tested pseudopotentials (M. Boero)
 - [GTH pseudopotentials](https://github.com/OpenCPMD/GTH-pseudopotentials): Available GTH pseudopotentials (M. Boero)
-- [Quick Tutorial](https://github.com/OpenCPMD/Quick-Tutorial): A quick tutorial about input and output files of CPMD (M. Boero).
+- [Quick Tutorial](https://github.com/OpenCPMD/Quick-Tutorial): A quick tutorial about input and output files of CPMD/OpenCPMD (M. Boero).

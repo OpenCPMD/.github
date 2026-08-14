@@ -25,3 +25,4 @@ The present OpenCPMD version, forked from the original CPMD, is freely distribut
 - [Pseudopotentials Extended Library](https://github.com/OpenCPMD/Pseudpotentials-extended-library): Avaliable tested pseudopotentials (M. Boero)
 - [GTH pseudopotentials](https://github.com/OpenCPMD/GTH-pseudopotentials): Available GTH pseudopotentials (M. Boero)
 - [Quick Tutorial](https://github.com/OpenCPMD/Quick-Tutorial): A quick tutorial about input and output files of CPMD/OpenCPMD (M. Boero).
+- [Manual Preview](https://github.com/OpenCPMD/Manual-Preview---PDF-version-M.Boero-) A PDF version of the CPMD/OpenCPMD manual - Warning: this is (always) work in progress (M. Boero).
